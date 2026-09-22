@@ -1,20 +1,52 @@
-# Hi, I'm Gautam Omkar 👋
+<h1 align="center">Hi, I'm Gautam Omkar 👋</h1>
 
-### 💻 Aspiring Full Stack Developer | BCA Student
+<h3 align="center">
+  💻 Aspiring Full Stack Developer | 🎓 BCA Student
+</h3>
 
-I'm a BCA student passionate about **Web Development** and building practical projects.
-Currently, I'm improving my skills in **Frontend and Backend Development** and learning by creating real-world applications.
+<p align="center">
+  I'm passionate about Web Development and building practical projects.
+  <br>
+  Currently improving my Frontend and Backend Development skills.
+</p>
+
+<p align="center">
+  <a href="https://github.com/gautamomkar-08">
+    <img src="https://img.shields.io/badge/GitHub-gautamomkar--08-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 BCA Student
-* 💻 Interested in Web & Full Stack Development
-* 🌱 Currently learning **Node.js, Express.js & MongoDB**
-* ⚛️ Working with **React.js**
-* 🛠️ Building projects to improve my development skills
-* 📚 Always learning new technologies and improving my problem-solving skills
+<table>
+<tr>
+<td>
+
+🎓 BCA Student
+
+💻 Interested in Web & Full Stack Development
+
+⚛️ Working with React.js
+
+🌱 Currently learning Node.js, Express.js & MongoDB
+
+🛠️ Building real-world projects
+
+📚 Improving problem-solving and development skills
+
+</td>
+
+<td>
+
+### 🎯 My Goal
+
+Become a professional **Full Stack Developer** by continuously learning, building projects and gaining practical development experience.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -22,74 +54,129 @@ Currently, I'm improving my skills in **Frontend and Backend Development** and l
 
 ### Frontend
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Bootstrap
-* Tailwind CSS
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+</p>
 
 ### Backend
 
-* Node.js
-* Express.js
-* MongoDB
-* REST APIs
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
 
 ### Programming Languages
 
-* C
-* JavaScript
-* Python
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
 ### Tools
 
-* Git & GitHub
-* VS Code
-* Postman
-* MongoDB Atlas
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</p>
 
+---
 
-## 📌 Projects
+## 🚀 Projects
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
 
 ### 👨‍💼 Employee Management System
 
-A web application for managing employee information with a frontend dashboard and backend REST API.
+A web application for managing employee information with a dashboard and backend API.
 
-**Technologies:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+**Tech:**
+HTML • CSS • JavaScript • Node.js • Express.js • MongoDB
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 🌐 Personal Portfolio
 
-A personal portfolio website showcasing my skills, projects and contact information.
+A personal portfolio website to showcase my skills, projects and development journey.
 
-**Technologies:** HTML, CSS, JavaScript
+**Tech:**
+HTML • CSS • JavaScript
+
+</td>
+
+<td width="33%" valign="top">
 
 ### ✅ To-Do Application
 
-A simple task management application built to practice JavaScript and frontend development.
+A task management application created to practice JavaScript and frontend development.
 
-**Technologies:** HTML, CSS, JavaScript
+**Tech:**
+HTML • CSS • JavaScript
 
+</td>
 
-## 📈 Currently Learning
+</tr>
+</table>
 
-React.js → Node.js → Express.js → MongoDB → REST API → Full Stack Development
+---
 
+## 📚 Currently Learning
+
+<table align="center">
+<tr>
+<td align="center">⚛️<br><b>React.js</b></td>
+<td>➡️</td>
+<td align="center">🟢<br><b>Node.js</b></td>
+<td>➡️</td>
+<td align="center">⚙️<br><b>Express.js</b></td>
+<td>➡️</td>
+<td align="center">🍃<br><b>MongoDB</b></td>
+<td>➡️</td>
+<td align="center">🔗<br><b>REST APIs</b></td>
+</tr>
+</table>
+
+---
 
 ## 🎯 Goals
 
-* Build real-world full-stack projects
-* Improve problem-solving and DSA skills
-* Contribute to open-source projects
-* Gain practical development experience
-* Become a professional Full Stack Developer
+- 🚀 Build real-world Full Stack projects
+- 🧠 Improve problem-solving and DSA skills
+- 🌱 Learn new technologies
+- 🤝 Contribute to open-source projects
+- 💼 Gain practical development experience
+- 👨‍💻 Become a professional Full Stack Developer
 
+---
 
-## 📫 Connect With Me
+## 📈 My Development Journey
 
-* 💼 LinkedIn: [Add your LinkedIn profile here]
-* 🌐 Portfolio: [Add your portfolio link here]
-* 📧 Email: [Add your professional email here]
-
-
-### ⭐ Thanks for visiting my profile!
+```text
+HTML + CSS
+     ↓
+JavaScript
+     ↓
+React.js
+     ↓
+Node.js
+     ↓
+Express.js
+     ↓
+MongoDB
+     ↓
+REST APIs
+     ↓
+Full Stack Development 🚀
