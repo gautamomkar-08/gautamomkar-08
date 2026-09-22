@@ -115,7 +115,7 @@ Become a professional **Full Stack Developer** by continuously learning, buildin
 - 🌱 Learn new technologies
 - 🤝 Contribute to open-source projects
 - 💼 Gain practical development experience
-- 👨‍💻 Become a professional Full Stack Developer
+- 👨‍💻 Become a professional MERN Stack Developer
 
 ---
 
