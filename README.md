@@ -90,49 +90,6 @@ Become a professional **Full Stack Developer** by continuously learning, buildin
 
 ---
 
-## 🚀 Projects
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 👨‍💼 Employee Management System
-
-A web application for managing employee information with a dashboard and backend API.
-
-**Tech:**
-HTML • CSS • JavaScript • Node.js • Express.js • MongoDB
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🌐 Personal Portfolio
-
-A personal portfolio website to showcase my skills, projects and development journey.
-
-**Tech:**
-HTML • CSS • JavaScript
-
-</td>
-
-<td width="33%" valign="top">
-
-### ✅ To-Do Application
-
-A task management application created to practice JavaScript and frontend development.
-
-**Tech:**
-HTML • CSS • JavaScript
-
-</td>
-
-</tr>
-</table>
-
----
-
 ## 📚 Currently Learning
 
 <table align="center">
