@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Gautam Omkar 👋</h1>
 
 <h3 align="center">
-  💻 Aspiring Full Stack Developer | 🎓 BCA Student
+  💻 Aspiring MERN Stack Developer | 🎓 BCA Student
 </h3>
 
 <p align="center">
-  I'm passionate about Web Development and building practical projects.
+  I'm passionate about MERN Development and building practical projects.
   <br>
   Currently improving my Frontend and Backend Development skills.
 </p>
@@ -26,7 +26,7 @@
 
 🎓 BCA Student
 
-💻 Interested in Web & Full Stack Development
+💻 Interested in Web & MERN Stack Development
 
 ⚛️ Working with React.js
 
@@ -42,7 +42,7 @@
 
 ### 🎯 My Goal
 
-Become a professional **Full Stack Developer** by continuously learning, building projects and gaining practical development experience.
+Become a professional **MERN Stack Developer** by continuously learning, building projects and gaining practical development experience.
 
 </td>
 </tr>
